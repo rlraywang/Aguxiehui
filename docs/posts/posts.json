@@ -1,0 +1,23 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "欢迎您来到掌上A协",
+    "description": "欢迎您来到掌上A协！",
+    "author": [
+      {
+        "name": "A协主页君",
+        "url": {}
+      }
+    ],
+    "date": "2022-03-01",
+    "categories": [
+      "welcome"
+    ],
+    "contents": "\n\n\n\n欢迎您来到掌上A协。在这里，我们将带来最新的协会的最新活动，与学习分享。如果有任何意见或建议，欢迎您随时联系我们。\n\n\n\n",
+    "preview": "posts/welcome/logo.png",
+    "last_modified": "2022-03-05T23:47:46-05:00",
+    "input_file": {},
+    "preview_width": 476,
+    "preview_height": 113
+  }
+]
